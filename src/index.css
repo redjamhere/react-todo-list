@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  color: #61DAFB;
+}
+
+h1 {
+  margin: 20px 0 15px 0;  
+}
+
+
+#main{
+  height: 100%;
+  width: 100%;
+}
+
+.list-group {
+  
+}
+
+.app-wrap {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+.done {
+  color: red;
+  text-decoration: line-through;
+}
+
+.undone {
+  color: #61DAFB;
+}
+
+.icon {
+  margin: 6px 10px 6px 0;
+}
